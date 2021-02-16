@@ -1,4 +1,3 @@
-# importing required librarie 
 import sys 
 from PyQt5.QtWidgets import QApplication, QWidget 
 from PyQt5.QtWidgets import QVBoxLayout, QLabel 
